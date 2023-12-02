@@ -105,8 +105,8 @@ button{
     text-align: center;
     height: 300px;
     margin: 0px 175px;
-    background-image: url("Flower\ Asset/rectangle 9.png");
-    padding-top: 40px;
+    background-image: url("Flower\ Asset/Rectangle 9.png");
+    padding: 60px 0px 60px;
     border-radius: 4px;
 }
 input{
